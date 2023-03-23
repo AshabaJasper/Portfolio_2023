@@ -16,9 +16,9 @@ To view my personal portfolio, simply navigate to the following URL: ashabajaspe
 
 There are no additional installation steps required to view the website. However, if you wish to make changes to the code, you will need to follow the steps below:
 
-1. Clone the repository onto your local machine 
-2.Make you changes 
-3.Open a pull request  
+ 1. Clone the repository onto your local machine  
+ 2.Make you changes  
+ 3.Open a pull request  
 
 ## Usage
 
