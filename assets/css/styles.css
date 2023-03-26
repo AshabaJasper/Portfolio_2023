@@ -313,7 +313,7 @@ li {
 }
 
 .home__blob-img {
-    width: 200px;
+    width: 300px;
 }
 
 .home__data {
@@ -336,7 +336,7 @@ li {
 }
 
 .home__scroll {
-    /*display: none;*/
+    display: none;
 }
 
 .home__scroll-button {
