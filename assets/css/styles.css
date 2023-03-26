@@ -293,6 +293,7 @@ li {
 }
 
 .home__social {
+    font-size: 32px;
     display: grid;
     grid-template-columns: max-content;
     row-gap: 1rem;
@@ -302,7 +303,9 @@ li {
     font-size: 1.25rem;
     color: var(--first-color);
 }
-
+.home__social a {
+    transform: scale(0.9); /* adjust this value to set the desired scaling factor */
+  }
 .home__social-icon:hover {
     color: var(--first-color-alt);
 }
