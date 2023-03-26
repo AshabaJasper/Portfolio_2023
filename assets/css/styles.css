@@ -304,7 +304,7 @@ li {
     color: var(--first-color);
 }
 .home__social a {
-    transform: scale(0.9); /* adjust this value to set the desired scaling factor */
+    transform: scale(0.9); /*scaling factor */
   }
 .home__social-icon:hover {
     color: var(--first-color-alt);
@@ -339,10 +339,14 @@ li {
 }
 
 .home__scroll {
-    display: none;
+    display: none; 
+    margin-top: 1rem;
+    padding: 0.5rem;  
 }
 
 .home__scroll-button {
+    margin-top: 0.5rem;
+    padding: 0.25rem;
     color: var(--first-color);
     transition: .3s;
 }
@@ -416,13 +420,14 @@ li {
     color: var(--first-color-alt);
 }
 
+
 /*==================== ABOUT ====================*/
-.about__img {
+/*.about__img {
     width: 200px;
     border-radius: .5rem;
     justify-self: center;
     align-self: center;
-}
+}*/
 
 .about__description {
     text-align: center;
