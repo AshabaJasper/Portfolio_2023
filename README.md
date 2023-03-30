@@ -12,7 +12,7 @@ This is the readme file for my personal portfolio website.
 
 ## Installation
 
-To view my personal portfolio, simply navigate to the following URL: [Click here to visit my portfolio](https://ashabajasper.netlify.app/)
+To view my personal portfolio, simply navigate to the following URL: [ashabajasper.netlify.app/](https://ashabajasper.netlify.app/)
 
 
 There are no additional installation steps required to view the website. However, if you wish to make changes to the code, you will need to follow the steps below:
